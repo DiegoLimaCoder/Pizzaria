@@ -1,7 +1,3 @@
-Claro, Diego! Aqui está um exemplo de README para o seu sistema. Certifique-se de ajustar os detalhes específicos de acordo com o seu projeto.
-
----
-
 # Sistema de Gestão de Restaurante
 
 Este é um sistema de gestão de restaurante que permite criar e fazer login de usuários, criar categorias de produtos, selecionar produtos, criar mesas (orders) e definir a quantidade de produtos para cada mesa.
