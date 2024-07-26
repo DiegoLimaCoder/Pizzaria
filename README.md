@@ -51,7 +51,7 @@ Este é um sistema de gestão de restaurante que permite criar e fazer login de 
    ```
 
 5. Configure o banco de dados:
-   - Crie um banco de dados MySQL.
+   - Crie um banco de dados PostgreSQL.
    - Atualize as configurações do banco de dados no arquivo `.env` no diretório `backend`.
 
 6. Execute as migrações do Prisma:
@@ -73,7 +73,7 @@ Este é um sistema de gestão de restaurante que permite criar e fazer login de 
 
 ## Uso
 
-1. Acesse a aplicação no navegador em `http://localhost:3000`.
+1. Acesse a aplicação no navegador em `http://localhost:3333`.
 
 2. Registre-se ou faça login para acessar o sistema.
 
@@ -94,6 +94,3 @@ Este é um sistema de gestão de restaurante que permite criar e fazer login de 
 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
----
-
-Espero que isso ajude! Se precisar de mais alguma coisa, estou à disposição.
