@@ -37,7 +37,7 @@ Este é um sistema de gestão de restaurante que permite criar e fazer login de 
 3. Instale as dependências do back-end:
    ```sh
    cd backend
-   npm install
+   yarn install
    ```
 
 5. Configure o banco de dados:
