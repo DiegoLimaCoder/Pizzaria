@@ -17,8 +17,6 @@ Este é um sistema de gestão de restaurante que permite criar e fazer login de 
   - Usuários podem criar mesas e adicionar produtos com quantidades específicas a cada mesa.
 
 ## Tecnologias Utilizadas
-
-- **Front-end:** React, TypeScript, CSS
 - **Back-end:** NodeJS, Express, TypeScript, Prisma
 - **Banco de Dados:** PostgreSQL
 
